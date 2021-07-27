@@ -26,7 +26,7 @@ form.addEventListener('submit', (e) => {
     content.innerHTML = cadastrado;
 
         setTimeout(() =>{
-            window.location = '/ecomerce.html';
+            window.location = '/ecommerce.html';
 
         }, 1000);
 
